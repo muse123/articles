@@ -3,6 +3,7 @@
 该系列文章是在研究JDK7源码过程中对于集合的学习总结。
 
 其包含的内容有：
+
 [Java集合学习1：HashMap的实现原理](http://tracylihui.github.io/2015/07/01/Java%E9%9B%86%E5%90%88%E5%AD%A6%E4%B9%A01%EF%BC%9AHashMap%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
 
 [Java集合学习2：HashSet的实现原理](http://tracylihui.github.io/2015/07/01/Java%E9%9B%86%E5%90%88%E5%AD%A6%E4%B9%A02%EF%BC%9AHashSet%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
